@@ -1,0 +1,17 @@
+{
+  "collapseKey": "com.awesomeproject",
+  "data": {
+    "body": "Seu inversor atingiu a temperatura maxima permitida",
+    "metadata": "{\"type\":\"RECEIVED_PIX\",\"transactionId\":123}",
+    "title": "Alerta Intelbras"
+  },
+  "from": "24487293068",
+  "messageId": "0:1652116975207843%84c0896384c08963",
+  "notification": {
+    "android": {},
+    "body": "Seu inversor atingiu a temperatura maxima permitida",
+    "title": "Alerta Intelbras"
+  },
+  "sentTime": 1652116975196,
+  "ttl": 2419200
+}
